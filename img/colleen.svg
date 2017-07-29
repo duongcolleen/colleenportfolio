@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="607.298px" height="202.703px" viewBox="0 0 607.298 202.703" enable-background="new 0 0 607.298 202.703"
+	 xml:space="preserve">
+<g id="Layer_3" display="none">
+	<path display="inline" fill="#214721" d="M778.378,356.919c0,6.627-5.372,12-12,12h-940.865c-6.627,0-12-5.373-12-12V-74.486
+		c0-6.627,5.373-12,12-12h940.865c6.628,0,12,5.373,12,12V356.919z"/>
+</g>
+<g id="Layer_1" display="none">
+	<g display="inline">
+		<path fill="#FFFFFF" d="M576.868,397.595c0.318-5.437,0.5-10.911,0.5-16.428c0-152.423-123.564-275.986-275.987-275.986
+			c-152.423,0-275.986,123.563-275.986,275.986c0,5.517,0.181,10.991,0.5,16.428H576.868z"/>
+		
+			<line fill="#FFFFFF" stroke="#95B795" stroke-width="20" stroke-miterlimit="10" x1="301.461" y1="140.929" x2="301.461" y2="36.929"/>
+		<path fill="#95B795" d="M288.118,37.77c0,0,44.583-77.91,141.992-38.021S366.348,153.735,288.118,37.77z"/>
+		<path fill="#95B795" d="M308.879,43.296c0,0-42.427,74.144-135.128,36.184C81.051,41.517,234.431-67.065,308.879,43.296z"/>
+		<path opacity="0.2" fill="#F48887" d="M493.565,397.595c9.703-11.534,15.557-26.414,15.557-42.666
+			c0-36.635-29.699-66.333-66.334-66.333c-36.633,0-66.332,29.698-66.332,66.333c0,16.252,5.854,31.132,15.557,42.666H493.565z"/>
+		<path opacity="0.2" fill="#F48887" d="M205.803,397.595c9.369-11.438,14.995-26.061,14.995-42
+			c0-36.635-29.698-66.333-66.333-66.333s-66.333,29.698-66.333,66.333c0,15.939,5.626,30.562,14.995,42H205.803z"/>
+		<ellipse transform="matrix(0.9578 -0.2873 0.2873 0.9578 -74.7176 66.6648)" cx="189.798" cy="287.929" rx="33" ry="27.666"/>
+		<ellipse transform="matrix(0.9308 0.3656 -0.3656 0.9308 133.1419 -129.2312)" cx="407.79" cy="286.929" rx="33" ry="27.666"/>
+	</g>
+</g>
+<g id="Layer_2">
+	<text transform="matrix(1 0 0 1 237.3516 51.418)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Raleway-Regular'" font-size="30">Hello, I’m</tspan><tspan x="-89.73" y="120" fill="#FFFFFF" font-family="'Luna'" font-size="70">Colleen</tspan></text>
+</g>
+</svg>
